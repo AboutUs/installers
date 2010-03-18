@@ -12,3 +12,4 @@ gem install cucumber --no-rdoc --no-ri
 gem install webrat --no-rdoc --no-ri
 gem install sinatra --no-rdoc --no-ri
 gem install unicorn --no-rdoc --no-ri
+gem install cassandra --no-rdoc --no-ri
